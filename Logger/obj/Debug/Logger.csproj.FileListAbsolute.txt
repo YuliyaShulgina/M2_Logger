@@ -1,0 +1,11 @@
+D:\Proj\Logger\Logger\bin\Debug\Logger.exe.config
+D:\Proj\Logger\Logger\bin\Debug\Logger.exe
+D:\Proj\Logger\Logger\bin\Debug\Logger.pdb
+D:\Proj\Logger\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\Proj\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Proj\Logger\Logger\obj\Debug\Logger.exe
+D:\Proj\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\USER\Downloads\Logger-master\Logger-master\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Logger-master\Logger-master\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Logger-master\Logger-master\Logger\obj\Debug\Logger.exe
+C:\Users\USER\Downloads\Logger-master\Logger-master\Logger\obj\Debug\Logger.pdb
